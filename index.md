@@ -6,6 +6,8 @@ layout: page
 
 <img src="images/lsq.jpg" class="floatpic" width="360" height="400">
 
+<br>
+
 Hi, I'm Shuqing Luo, a 1st-year graduate student majoring in ECE at Peking University. I obtained by B.Eng from School of Cyber Science and Engineering at Shanghai Jiao Tong University, advised by [Prof. Shilin Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=122). I also work as a research intern at Chinese University of Hong Kong, advised by [Prof. Xiangyu Yue](https://people.eecs.berkeley.edu/~xyyue/).
 
 <br>
