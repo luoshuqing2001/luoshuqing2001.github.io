@@ -4,13 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/luoshuqing2001/luoshuqing2001.github.io/blob/main/images/lsq.jpg" class="floatpic" width="360" height="480">
+<img src="https://github.com/luoshuqing2001/luoshuqing2001.github.io/blob/main/images/lsq.jpg" class="floatpic" width="360" height="400">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
-
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+Hi, I'm Shuqing Luo, a 1st-year graduate student majoring in ECE at Peking University. I obtained by B.Eng from School of Cyber Science and Engineering at Shanghai Jiao Tong University, advised by [Prof. Shilin Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=122). I also work as a research intern at Chinese University of Hong Kong, advised by [Prof. Xiangyu Yue](https://people.eecs.berkeley.edu/~xyyue/).
 
 <br>
 
