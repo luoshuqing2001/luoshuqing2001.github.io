@@ -8,7 +8,7 @@ layout: page
 
 <br>
 
-Hi, I'm Shuqing Luo. Currently I'm a 1st-year graduate student majoring in ECE at Peking University. I obtained by B.Eng from School of Cyber Science and Engineering at Shanghai Jiao Tong University, advised by [Prof. Shilin Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=122). I also work as a research intern at Chinese University of Hong Kong, advised by [Prof. Xiangyu Yue](https://people.eecs.berkeley.edu/~xyyue/).
+Hi, I'm Shuqing Luo. Currently I'm a 1st-year graduate student majoring in ECE at Peking University. I obtained by B.Eng from School of Cyber Science and Engineering at Shanghai Jiao Tong University, advised by [Prof. Shilin Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=122). I also work as a research intern at the Chinese University of Hong Kong, advised by [Prof. Xiangyu Yue](https://xyue.io/).
 
 <br>
 
@@ -27,15 +27,33 @@ Hi, I'm Shuqing Luo. Currently I'm a 1st-year graduate student majoring in ECE a
 
 ---
 
-## Research Interests
+## Awards
 
 <br>
 
-
+- **Nov 2021:** Shaoqiu Scholarship (SJTU, 1%)
+- **June 2023:** Outstanding graduate
 
 <br>
 
 ---
+
+## Research Interests
+
+<br>
+
+I'm interested in generative model and multi-modal learning. Besides, I'm also interested in parallel computing.
+
+<br>
+
+---
+
+## Awards
+
+<br>
+
+- **Programming Language:** C++, Python, CUDA
+- **Sep 2019 - June 2023:** Outstanding graduate
 
 ## Projects
 
@@ -44,4 +62,12 @@ Hi, I'm Shuqing Luo. Currently I'm a 1st-year graduate student majoring in ECE a
 - Tensor Core Simulator
 - PoW Simulator
 - Deep Learning Model Copyright Protection Platform
+
+## Friends
+
+<br>
+
+- Jiaxin Song
+- Zihan Liu
+- Bowen Qu
 
