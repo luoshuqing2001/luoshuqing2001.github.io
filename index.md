@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/lsq.jpg" class="floatpic" width="360" height="400">
+<img src="images/cartoon.jpg" class="floatpic" width="360" height="400">
 
 <br>
 
