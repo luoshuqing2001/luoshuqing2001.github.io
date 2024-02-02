@@ -31,7 +31,9 @@ Hi, I'm Shuqing Luo. Currently I'm a 1st-year graduate student majoring in ECE a
 
 <br>
 
+- **Nov 2020:** Merit Student Award (SJTU, 5%)
 - **Nov 2021:** Shaoqiu Scholarship (SJTU, 1%)
+- **Dec.2021, Dec. 2022:** Undergraduate Class B, C Scholarship (SJTU, 30%) 
 - **June 2023:** Outstanding graduate
 
 <br>
