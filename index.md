@@ -18,7 +18,7 @@ Hi, I'm Shuqing Luo. Currently I'm a 1st-year graduate student majoring in ECE a
 
 <!-- **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!** -->
 
-- **Sep 2019 - June 2023:** School of Cyber Science and Engineering, Shanghai Jiao Tong University, BEng
+- **Sep 2019 - June 2023:** School of Cyber Science and Engineering, Shanghai Jiao Tong University, B.Eng
 - **Sep 2023 - today:** School of Electronic and Computer Engineering, Peking University, MPhil
 - **May 2023 - today:** MMLab, Chinese University of Hong Kong, Research Intern
 <!-- - Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that. -->
@@ -33,7 +33,7 @@ Hi, I'm Shuqing Luo. Currently I'm a 1st-year graduate student majoring in ECE a
 
 - **Nov 2020:** Merit Student Award (SJTU, 5%)
 - **Nov 2021:** Shaoqiu Scholarship (SJTU, 1%)
-- **Dec.2021, Dec. 2022:** Undergraduate Class B, C Scholarship (SJTU, 30%) 
+- **Dec.2021:** Undergraduate Class B Scholarship (SJTU, 10%) 
 - **June 2023:** Outstanding graduate
 
 <br>
@@ -50,12 +50,16 @@ I'm interested in generative model and multi-modal learning. Besides, I'm also i
 
 ---
 
-## Awards
+## Skills
 
 <br>
 
-- **Programming Language:** C++, Python, CUDA
-- **Sep 2019 - June 2023:** Outstanding graduate
+- **Programming Language:** C++, Python, CUDA, LaTeX, Shell
+- **Programming Framework:** PyTorch
+
+<br>
+
+---
 
 ## Projects
 
@@ -65,6 +69,10 @@ I'm interested in generative model and multi-modal learning. Besides, I'm also i
 - PoW Simulator
 - Deep Learning Model Copyright Protection Platform
 
+<br>
+
+---
+
 ## Friends
 
 <br>
@@ -73,3 +81,4 @@ I'm interested in generative model and multi-modal learning. Besides, I'm also i
 - Zihan Liu
 - Bowen Qu
 
+<br>
