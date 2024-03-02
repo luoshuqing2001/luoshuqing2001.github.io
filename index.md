@@ -8,7 +8,7 @@ layout: page
 
 <br>
 
-Hi, I'm Shuqing Luo. Currently I'm a 1st-year graduate student majoring in ECE at Peking University. I obtained by B.Eng from School of Cyber Science and Engineering at Shanghai Jiao Tong University, advised by [Prof. Shilin Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=122). I also work as a research intern at the Chinese University of Hong Kong, advised by [Prof. Xiangyu Yue](https://xyue.io/).
+Hi, I'm Shuqing Luo. Currently I'm a 1st-year graduate student majoring in computer science and technology at Peking University, advised by [Prof. Wei Gao](https://gaowei262.github.io/). Prior to that, I obtained by B.Eng from School of Cyber Science and Engineering at Shanghai Jiao Tong University, advised by [Prof. Shilin Wang](https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=122). I also work as a research intern at the Chinese University of Hong Kong, advised by [Prof. Xiangyu Yue](https://xyue.io/).
 
 <br>
 
@@ -77,8 +77,9 @@ I'm interested in generative model and multi-modal learning. Besides, I'm also i
 
 <br>
 
-- Jiaxin Song
-- Zihan Liu
-- Bowen Qu
+- [Jiaxin Song](https://sjxer723.github.io/)
+- [Zihan Liu](https://github.com/zhliuworks)
+- [Bowen Qu](https://github.com/Coobiw)
+- [Liuzhenghao Lv](https://github.com/Lyu6PosHao)
 
 <br>
