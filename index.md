@@ -8,17 +8,17 @@ layout: page
 
 <br>
 
-Hi, I'm Shuqing Luo. I'm an incoming CS PhD student in the UNITES lab at the University of North Carolina, Chapel Hill, working with [Prof. Tianlong Chen](https://tianlong-chen.github.io/). I'm interested in efficient and distributed training and inference of large language models using algorithm-system co-design such as structural & unstructural sparsity.
+Hi, I'm Shuqing Luo. I'm an incoming CS PhD student in the UNITES lab at the University of North Carolina, Chapel Hill, working with [Prof. Tianlong Chen](https://tianlong-chen.github.io/). I'm interested in efficient and distributed training and inference of large language models using algorithm-system co-design, such as structural & unstructural sparsity and advanced model parallelism.
 
 <br>
 
-## Education Background
+## Experience
 
 <br>
 
-- **Sep 2019 - June 2023:** School of Cyber Science and Engineering, Shanghai Jiao Tong University, B.Eng
-- **Sep 2023 - today:** School of Electronic and Computer Engineering, Peking University, MPhil
 - **Feb 2025 - today:** Scaling team of Moonshot AI, Research Intern
+- **Sep 2023 - today:** School of Electronic and Computer Engineering, Peking University, MPhil
+- **Sep 2019 - June 2023:** School of Cyber Science and Engineering, Shanghai Jiao Tong University, B.Eng
 
 <br>
 
