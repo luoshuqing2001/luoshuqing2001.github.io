@@ -8,7 +8,7 @@ layout: page
 
 <br>
 
-Hi, I'm Shuqing Luo. I'm an incoming CS PhD student in the UNITES lab at the University of North Carolina, Chapel Hill, working with [Prof. Tianlong Chen](https://tianlong-chen.github.io/). I also work closely with [Dr. Hanrui Wang](https://hanruiwang.webflow.io/) on MLSys. I'm interested in efficient and distributed training & inference for large language models using algorithm-system co-design, such as structural & unstructural sparsity and parallelism techniques.
+Hi, I'm Shuqing Luo. I'm an incoming CS PhD student in the UNITES lab at the University of North Carolina, Chapel Hill, working with [Prof. Tianlong Chen](https://tianlong-chen.github.io/). I also work closely with [Prof. Hanrui Wang](https://hanruiwang.webflow.io/) on MLSys. I'm interested in efficient and distributed training & inference for large language models using algorithm-system co-design, such as structural & unstructural sparsity and parallelism techniques.
 
 <br>
 
